@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://animax.vercel.app">animax.vercel.app</a>
+    <a href="https://animunet.vercel.app">animuent.vercel.app</a>
 </h1>
 
 <p align="center">
@@ -20,12 +20,12 @@ Enjoy your favorite shows with English subs or dubs, and no sign-up required!
 ## Images
 
 <div style="text-align: left;">
-  <img src="https://api.microlink.io/?url=https://animax.netlify.app&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=2000&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Home Page" style="max-width: 70%;" >
+  <img src="https://api.microlink.io/?url=https://animunet.netlify.app&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=2000&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Home Page" style="max-width: 70%;" >
   <details>
   <summary>Screenshots [View More]</summary>
   <br>
-  <img src="https://api.microlink.io/?url=https://animax.netlify.app/watch/ore-dake-level-up-na-ken/2&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=3500&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Watch Page" style="max-width: 70%;">
-  <img src="https://api.microlink.io/?url=https://animax.netlify.app/info/ore-dake-level-up-na-ken&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=4510&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Info" style="max-width: 70%;">
+  <img src="https://api.microlink.io/?url=https://animunet.netlify.app/watch/ore-dake-level-up-na-ken/2&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=3500&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Watch Page" style="max-width: 70%;">
+  <img src="https://api.microlink.io/?url=https://animunet.netlify.app/info/ore-dake-level-up-na-ken&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=4510&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Info" style="max-width: 70%;">
   </details>
 </div>
 
@@ -34,11 +34,11 @@ Enjoy your favorite shows with English subs or dubs, and no sign-up required!
 ### 1. Clone this repository using
 
 ```bash
-git clone https://github.com/InfiniteDevs/animax.git
+git clone https://github.com/InfiniteDevs/animunet.git
 ```
 
 ```bash
-cd animax
+cd animunet
 ```
 
 ### 2. Installation
@@ -69,11 +69,11 @@ npm start
 
 > Deploy **your own animax** Instance
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FInfiniteDevs%2Fanimax&project-name=animax&repository-name=animax)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FInfiniteDevs%2Fanimunet&project-name=animunet&repository-name=animunet)
 
 ## Found a Bug? 🐞
 
-Uh-oh, looks like you stumbled upon a bug? No worries, we're here to squash it! Just head over to our [issues](https://github.com/InfiniteDevs/animax/issues) section on GitHub and let us know what's up.
+Uh-oh, looks like you stumbled upon a bug? No worries, we're here to squash it! Just head over to our [issues](https://github.com/InfiniteDevs/animunet/issues) section on GitHub and let us know what's up.
 
 ## Contributing 📝
 
@@ -81,7 +81,7 @@ Feel free to contribute to this project! Whether you're an experienced developer
  
 #### Special Thanks to those People who have contributed :
 
-<img width="50" src="https://contrib.rocks/image?repo=InfiniteDevs/animax" />
+<img width="50" src="https://contrib.rocks/image?repo=InfiniteDevs/animunet" />
 
 ## **Progress Tracker**
 - [x] Terms & Services
@@ -99,10 +99,10 @@ Feel free to contribute to this project! Whether you're an experienced developer
 
 ## Star History
 
-<a href="https://github.com/InfiniteDevs/animax">
+<a href="https://github.com/InfiniteDevs/animunet">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=InfiniteDevs/animax&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=InfiniteDevs/animax&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=InfiniteDevs/animax&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=InfiniteDevs/animunet&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=InfiniteDevs/animunet&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=InfiniteDevs/animunet&type=Date" />
  </picture>
 </a>
